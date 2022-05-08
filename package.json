@@ -1,0 +1,17 @@
+{
+  "name": "amazon-image-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fidel Mangold",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "puppeteer": "^13.7.0",
+    "puppeteer-cluster": "^0.23.0"
+  }
+}
